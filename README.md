@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **KreatorSpace**
 
-- 🌱 I’m currently learning **Nextjs, Devops**
+- 🌱 I’m currently learning **Nextjs, Devops** 
 
 - 📫 How to reach me **ugbore2@gmail.com**
 
