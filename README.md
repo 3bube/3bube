@@ -28,4 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bube&" alt="3bube" /></p>
 
-![snake gif](https://github.com/3bube/3bube/blob/output/github-contribution-grid-snake.gif)
+### GitHub Contribution Snake 🐍
+
+![snake](https://raw.githubusercontent.com/3bube/3bube/output/github-contribution-grid-snake.svg)
+
