@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bube" alt="3bube" /></a> </p>
 
-- 🔭 I’m currently working on **KreatorSpace**
+- 🔭 I’m currently working on **KreatorSpacee**
 
-- 🌱 I’m currently learning **Nextjs, Devops** 
+- 🌱 I’m currently learning **Java** 
 
 - 📫 How to reach me **ugbore2@gmail.com**
 
