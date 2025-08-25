@@ -2,6 +2,9 @@
 
 **`Digital Architect (Developer / Creator)`**
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=3bube)
+
+
 I’m a fullstack developer who thrives on turning ideas into reality—whether that’s building sleek frontends, powerful backends, or stitching it all together into a seamless solution. I genuinely enjoy the craft of problem-solving: sometimes that means spinning up passion projects just for the fun of it, other times it’s collaborating with clients and teams to deliver solutions that create real impact (and yes, that’s pretty fun too). At the end of the day, I love what I do—exploring new technologies, tackling challenges head-on, and creating things that make life a little smoother, smarter, or more exciting.
 
 ### 🧰 Languages and Tools
